@@ -3,7 +3,7 @@
 ### **Graduando de Ciência da Computação**
 
 Meu nome é Nathã Melo, tenho 18 anos e sou do Rio de Janeiro.
-Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era mais novo sou próximo à tecnologia, e isto foi um dos motivos por me fazer apaixonado pela área. Venho frequentemente atualizando e compartilhando minha evolução no meu **_[Linkedin](www.linkedin/in/nathamelo)_**. 
+Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era mais novo sou próximo à tecnologia, e isto foi um dos motivos por me fazer apaixonado pela área. Venho frequentemente atualizando e compartilhando minha evolução no meu **_[Linkedin](www.linkedin/in/nathamelo)_**. Também frequentemente faço commits de exercícios e/ou projetos feitos por mim aqui no GitHub.
 
 <p align="left">
     </a> 

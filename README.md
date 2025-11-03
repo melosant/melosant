@@ -93,7 +93,7 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
         <img
             align="left"
             alt="GitHub Stats"
-            height="200"
+            height="175"
             style="padding-right: 10px;"
             src="https://github-readme-stats.vercel.app/api?username=melosant&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=issues,contribs&locale=pt-br"
         />
@@ -102,7 +102,7 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosant&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>

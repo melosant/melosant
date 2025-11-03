@@ -6,13 +6,6 @@ Meu nome é Nathã Melo, tenho 18 anos e sou do Rio de Janeiro.
 Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era mais novo sou próximo à tecnologia, e isto foi um dos motivos por me fazer apaixonado pela área. Venho frequentemente atualizando e compartilhando minha evolução no meu **_[Linkedin](www.linkedin/in/nathamelo)_**. 
 
 <p align="left">
-    <a href="https://github.com/melosant?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/melosant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     </a> 
     <a href="https://github.com/melosant?tab=repositories&sort=stargazers">
         <img 

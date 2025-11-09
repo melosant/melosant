@@ -48,14 +48,14 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Git" 
@@ -96,6 +96,6 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
       align="left" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosant&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosant&layout=compact&theme=midnight-purple&locale=pt-br" 
   />
 </p>

@@ -6,13 +6,6 @@ Meu nome é Nathã Melo, tenho 18 anos e sou do Rio de Janeiro.
 Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era mais novo sou próximo à tecnologia, e isto foi um dos motivos por me fazer apaixonado pela área. Venho frequentemente atualizando e compartilhando minha evolução no meu **_[Linkedin](www.linkedin/in/nathamelo)_**. Também frequentemente faço commits de exercícios e/ou projetos feitos por mim aqui no GitHub.
 
 <p align="left">
-    </a> 
-    <a href="https://github.com/melosant?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/melosant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://www.linkedin.com/in/nathamelo/">
         <img 
@@ -30,7 +23,7 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
 
 ---
 
-### 🤖 Linguagens e Tecnologias Utilizadas
+### 🤖 Linguagens e Tecnologias Utilizadas (até o presente momento)
 
 <img 
     align="left" 
@@ -86,7 +79,7 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
         <img
             align="left"
             alt="GitHub Stats"
-            height="175"
+            height="150"
             style="padding-right: 10px;"
             src="https://github-readme-stats.vercel.app/api?username=melosant&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=issues,contribs&locale=pt-br"
         />
@@ -95,7 +88,7 @@ Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era m
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosant&layout=compact&theme=midnight-purple&locale=pt-br" 
   />
 </p>

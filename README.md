@@ -1,94 +1,72 @@
-# 👨‍💻 Nathã Melo
+<br>
+<br>
+<br>
 
-### **Graduando de Ciência da Computação**
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/56Bu3l9.png" />
+</div>
 
-Meu nome é Nathã Melo, tenho 18 anos e sou do Rio de Janeiro.
-Atualmente estou cursando Ciência da Computação na UVA-RJ. Desde quando era mais novo sou próximo à tecnologia, e isto foi um dos motivos por me fazer apaixonado pela área. Venho frequentemente atualizando e compartilhando minha evolução no meu **_[Linkedin](www.linkedin/in/nathamelo)_**. Também frequentemente faço commits de exercícios e/ou projetos feitos por mim aqui no GitHub.
+<div align="center">
+  
+  <b>Hi,</b>
+  <samp>
+      <br>
+      I'm <b>Nathã Melo</b>!
+  </samp>
+</div>
 
-<p align="left">
-    </a>
-    <a href="https://www.linkedin.com/in/nathamelo/">
-        <img 
-            alt="Linkedin"
-            title="Me acompanhe no Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            target="_blank">
-    </a>
-    <a href="mailto:contatonathamelo@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-            target="_blank">
-        </a>
-</p>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d7d7d7&width=900&size=22&center=true&lines=I'm+brazilian!;I'm+a+student+of+Computation+Science;Be+Welcome!" alt="Typing SVG"/>
+</div>
+      
+<div align="center">
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melosant&theme=apprentice"/>
+</div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
 
-### 🤖 Linguagens e Tecnologias Utilizadas (até o presente momento)
+<br>
+<br>
 
-<img 
-    align="left" 
-    alt="HTML5"
-    title="HTML5" 
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3"
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="80px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-</br>
-</br>
-</br>
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
 ##
 
-### 📊 Minhas Stats
+<br>
 
-<p>
-  <picture>
-        <img
-            align="left"
-            alt="GitHub Stats"
-            height="150"
-            style="padding-right: 10px;"
-            src="https://github-readme-stats.vercel.app/api?username=melosant&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=issues,contribs&locale=pt-br"
-        />
-  </picture>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosant&layout=compact&theme=midnight-purple&locale=pt-br" 
-  />
-</p>
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contatonathamelo@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/melosantt)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nathamelo)
+  
+</div>
+
+</div>
+
+<br>
+<br>
+<br>

@@ -1,71 +1,65 @@
-<br>
-<br>
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=melosant&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/56Bu3l9.png" />
-</div>
+<h2 align="center">Nathã Melo</h2>
 
-<div align="center">
-  
-  <b>Hi,</b>
-  <samp>
-      <br>
-      I'm <b>Nathã Melo</b>!
-  </samp>
-</div>
+<p align="center">
+  Computer Science Student • Software Developer in Training
+</p>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d7d7d7&width=900&size=22&center=true&lines=I'm+brazilian!;I'm+a+student+of+Computer+Science;Be+Welcome!" alt="Typing SVG"/>
-</div>
-      
-<div align="center">
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melosant&theme=apprentice"/>
-</div>
+<p align="center">
+  Focused on Backend Engineering and Software Development
+</p>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
-</div>
+---
 
-<br>
-<br>
+## Bio
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
+- Computer Science student focused on building strong foundations in software engineering, object-oriented programming, and backend development.
+- Currently studying Java and software architecture principles while developing practical projects and improving problem-solving skills.
+- Seeking opportunities to grow as a software developer and contribute to real-world systems.
 
-##
+---
 
-<br>
+## Stack
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,git"/>
+  </a>
+</p>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contatonathamelo@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nathamelo)
-  
-</div>
 
-</div>
+---
 
-<br>
-<br>
-<br>
+## Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=melosant&theme=midnight_purple"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melosant&theme=midnight_purple"/>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathamelo/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:contatonathamelo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+Building. Learning. Improving.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>

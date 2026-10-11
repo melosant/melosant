@@ -1,65 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=melosant&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://vignette.wikia.nocookie.net/vsbattles/images/b/b5/Hunter_X_Hunter_Chrollo_Incognito_%28Render%29.png/revision/latest/scale-to-width-down/272?cb=20181128224230" width="160px" />
 </p>
 
-<h2 align="center">Nathã Melo</h2>
+<h2 align="center"><b>Nathã Melo</b></h2>
 
 <p align="center">
-  Computer Science Student • Software Developer in Training
+  <b>Software & Data Engineer</b> • Computer Science Student
 </p>
 
 <p align="center">
-  Focused on Backend Engineering and Software Development
+  Building scalable backend systems, robust data pipelines, and clean architectures.
 </p>
-
----
-
-## Bio
-
-- Computer Science student focused on building strong foundations in software engineering, object-oriented programming, and backend development.
-- Currently studying Java and software architecture principles while developing practical projects and improving problem-solving skills.
-- Seeking opportunities to grow as a software developer and contribute to real-world systems.
-
----
-
-## Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git"/>
-  </a>
-</p>
-
-
----
-
-## Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=melosant&theme=midnight_purple"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melosant&theme=midnight_purple"/>
-</p>
-
----
-
-## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathamelo/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contatonathamelo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
-<p align="center">
-Building. Learning. Improving.
-</p>
+### About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
-</p>
+```java
+public class SoftwareEngineer {
+    private String name = "Nathã Melo";
+    private String role = "Software & Data Engineering";
+    private String status = "Delivering production solutions & continuously learning";
+
+    public String[] getCoreFocus() {
+        return new String[] {
+            "Backend Systems Architecture (Java/Spring Boot)",
+            "Data Engineering & Automation (Python/PostgreSQL)",
+            "Scalable API Design & Performance Optimization"
+        };
+    }
+}
+```
+
+> Currently applying software engineering and data practices to real-world infrastructure and backend systems, while constantly exploring modern patterns, distributed architectures, and complex problem-solving.
+> <b>Open to networking, technical discussions, and high-impact opportunities.</b>
